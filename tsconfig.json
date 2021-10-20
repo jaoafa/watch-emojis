@@ -14,7 +14,6 @@
     "strict": true,
     "noImplicitAny": true,
     "strictBindCallApply": true,
-    "noEmit": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noImplicitReturns": true,
