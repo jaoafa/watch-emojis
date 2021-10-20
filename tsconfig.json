@@ -4,6 +4,7 @@
     "moduleResolution": "Node",
     "lib": ["ESNext", "ESNext.AsyncIterable", "DOM"],
     "outDir": "./dist",
+    "removeComments": true,
     "esModuleInterop": true,
     "allowJs": true,
     "checkJs": true,
@@ -20,6 +21,7 @@
     "noFallthroughCasesInSwitch": true,
     "experimentalDecorators": true,
     "baseUrl": ".",
+    "newLine": "LF",
     "paths": {
       "@/*": ["./src/*"]
     }
